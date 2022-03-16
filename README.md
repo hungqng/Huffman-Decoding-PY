@@ -1,5 +1,5 @@
 # Huffman-Decoding-PY
-Hackerrank Interview question
+- Hackerrank Interview question
 
 ## Built With
 - Hackerrank
